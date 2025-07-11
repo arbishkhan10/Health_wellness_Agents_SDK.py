@@ -1,0 +1,5 @@
+streamlit
+openai-agents
+python-dotenv
+pydantic
+tailwind-styled-components
